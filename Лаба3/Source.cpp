@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-	int a1, b, c;
+	int a2, b, c;
 	printf("Enter  2 numbers\n");
 	scanf_s("%d%d", &a1, &b);
 	if (a1 >= 0 && b >= 0) { 
